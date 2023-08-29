@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94e6bbb9b4a03074898e3b5748adae12
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {instanceID: 0}
+  - methodCalls: {fileID: 3737558070108000769, guid: 65a1cd9893596024bb9619d7b28c848b, type: 3}
+  - HUD: {fileID: 237062907877059081, guid: 203bfb24df2be0343996b66af3fd7453, type: 3}
+  - enemyMethodCalls: {instanceID: 0}
+  - gorillaTarget: {fileID: 5986540585901495173, guid: 8909ff4118f30964892a69bb06798a30, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
